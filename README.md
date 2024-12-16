@@ -16,3 +16,6 @@ Foozle - Player & Alien Ships - https://foozlecc.itch.io/void-main-ship
 PiiiXL - Background - https://piiixl.itch.io/space
 
 Dream Mix - Button Prompts - https://dreammix.itch.io/keyboard-keys-for-ui
+
+
+Be aware you will have to install the fonts provided before trying to run the code or else it will throw an error
