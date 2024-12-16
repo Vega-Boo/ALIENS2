@@ -8,7 +8,7 @@ Credits for Assets used in-game
     Goose Ninja - Game Music
     Penzilla - Humans
     Foozle - Player & Alien Ships
-    PiiiXL - Background
+    PiiiXL - Background - https://piiixl.itch.io/space
     Dream Mix - Button Prompts
 
 License: Unlicensed. You're allowed to use the game code for any project including commercial ones.
