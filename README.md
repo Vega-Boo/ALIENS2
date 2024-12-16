@@ -2,13 +2,17 @@ You the player are charged with defending the planet from an oncoming fleet of a
 
 This is a short and snappy arcade game I made for my year 2 HND Games Development course at Edinburgh College and is a spiritual successor to the game I made the previous year. Inspired by Williams Electronics Defender, I made it using the Monogame engine.
 
+
 Credits for Assets used in-game
 
-    Deep-Fold - Planet & Moon
-    Goose Ninja - Game Music
-    Penzilla - Humans
-    Foozle - Player & Alien Ships
-    PiiiXL - Background - https://piiixl.itch.io/space
-    Dream Mix - Button Prompts
+Deep-Fold - Planet & Moon - https://deep-fold.itch.io/pixel-planet-generator
 
-License: Unlicensed. You're allowed to use the game code for any project including commercial ones.
+Goose Ninja - Game Music - https://gooseninja.itch.io/space-music-pack
+
+Penzilla - Humans - https://penzilla.itch.io/protagonist-character
+
+Foozle - Player & Alien Ships - https://foozlecc.itch.io/void-main-ship
+
+PiiiXL - Background - https://piiixl.itch.io/space
+
+Dream Mix - Button Prompts - https://dreammix.itch.io/keyboard-keys-for-ui
