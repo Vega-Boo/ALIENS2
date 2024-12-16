@@ -27,8 +27,6 @@ Be aware you will have to install the fonts provided before trying to run the co
 
 ![4](https://github.com/user-attachments/assets/a49a0057-341f-4f1a-889f-eb9bb8449043)
 
-![5](https://github.com/user-attachments/assets/342c87bb-2427-4d00-b735-0eeec8940c85)
-
 ![6](https://github.com/user-attachments/assets/28cda9ab-7956-4fcd-a473-cf684c05d9a5)
 
 ![9](https://github.com/user-attachments/assets/12ce6f8a-484e-4f31-9598-57a042b72928)
