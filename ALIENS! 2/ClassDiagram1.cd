@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ALIENS__2.Game1">
+    <Position X="17" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>GgyJAAISECFgZykAC4QLAQBzQwhAQARfwIMgQQbAcCw=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.StaticGraphic">
+    <Position X="2.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.StaticAnimated2D">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAAAiAAAAAAAEAAAAAAQAAAAAAAAAAgAAAACA=</HashCode>
+      <FileName>Graphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.MovingAnimated2D">
+    <Position X="8.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAQAAEAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.Transition">
+    <Position X="4.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAEAAAAAAAABgAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MiscOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.InvasionBar">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAkAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MiscOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.movingPromptKeys">
+    <Position X="6.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MiscOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.HighscoreManager">
+    <Position X="19.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAABABAAAQAQAUAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>MiscOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.LazerLOS">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIA=</HashCode>
+      <FileName>MiscOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.Alien">
+    <Position X="8.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AKABIAAAAAQEAAggAEHAAAMAARQAQAIABUAIgAABAAE=</HashCode>
+      <FileName>NPCs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.Human">
+    <Position X="10.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAEAAAgAAHAAAAAAQQAQAAABAIAgQCAAAA=</HashCode>
+      <FileName>NPCs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.PlayerShip">
+    <Position X="14.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEJAAAAgAAAIEgAAEMAAAAAQBAAAAAAEAIBICFoIA=</HashCode>
+      <FileName>PlayerClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALIENS__2.LazerBeam">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAEAAAAAAQAAAAAAACAAAAIAAAA=</HashCode>
+      <FileName>PlayerClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ALIENS__2.HighScoreData">
+    <Position X="19.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MiscOperations.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ALIENS__2.MovementState">
+    <Position X="8.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>NPCs.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ALIENS__2.lifeState">
+    <Position X="8.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAACAAAAAA=</HashCode>
+      <FileName>NPCs.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ALIENS__2.isAirborn">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>NPCs.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ALIENS__2.MovingState">
+    <Position X="14.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>PlayerClasses.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ALIENS__2.ShootingState">
+    <Position X="14.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerClasses.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="gameScreen">
+    <Position X="17" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAgAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
