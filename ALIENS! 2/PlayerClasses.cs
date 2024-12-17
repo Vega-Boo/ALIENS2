@@ -95,7 +95,7 @@ namespace ALIENS__2
             _velocity *= _inertia;
 
             // < Weapeon Targeting > This block takes the direction the player is pointing and places a second point far out in front of the ship in order to draw a line between them to act as lazer beam hit registration
-            _targetPoint = _direction;
+            _targetPoint = _velocity;
             _targetPoint.Normalize();
             _targetPoint *= 700;
             _targetPoint += _position;
